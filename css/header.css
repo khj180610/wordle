@@ -2,18 +2,20 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #d3d6da;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ebf1b7;
   margin-bottom: 180px;
   height: 50px;
+  background-color: beige;
 }
 
 .top-l {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-left: 20px;
-  width: 30px;
+  margin-left: 30px;
+  margin-top: 30px;
+  width: 23px;
   cursor: pointer;
 }
 
@@ -22,6 +24,7 @@
   justify-content: center;
   align-items: center;
   margin-left: 30px;
+  margin-top: 30px;
   font-weight: bold;
   font-size: 30px;
 }
@@ -31,6 +34,7 @@
   justify-content: center;
   align-items: center;
   margin-right: 50px;
-  width: 30px;
+  margin-top: 30px;
+  width: 22px;
   cursor: pointer;
 }
